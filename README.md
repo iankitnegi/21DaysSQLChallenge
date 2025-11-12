@@ -1,4 +1,4 @@
-# 21-Days SQL Challenge (Beginner → Advanced) — README
+# 21-Days SQL Challenge (Beginner → Advanced)
 Organised by: Indian Data Club  
 Title Sponsor: DPDzero — explore career opportunities: https://dpdzero.com/careers/  
 
