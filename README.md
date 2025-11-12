@@ -1,3 +1,5 @@
+<img width="1580" height="300" alt="image" src="https://github.com/user-attachments/assets/70b87c6e-7824-4ad4-8d82-ba4ad24306be" />
+
 # 21-Days SQL Challenge (Beginner → Advanced)
 Organised by: Indian Data Club  
 Title Sponsor: DPDzero — explore career opportunities: https://dpdzero.com/careers/  
